@@ -7,7 +7,6 @@ The dataset contained 146 records with 1 labeled feature (POI), 14 financial fea
 The goal of this project is to employ machine learning skills in building a person of interest identifier based on financial and email data made public as a result of the Enron scandal. The aim is to classify Enron employees into two categories: POI and non-POI. 
 ### Software
 This project requires Python 2.x and the following Python libraries installed:
-- matplotlib
-- pandas
+- matplotlib 
 - numpy
 
